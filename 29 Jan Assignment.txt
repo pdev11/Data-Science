@@ -1,0 +1,46 @@
+Answer 1 - Guido van Rossum
+
+-------------------------------------------------------------------------------------
+Answer 2 - object-oriented, structured, and functional programming  
+
+-------------------------------------------------------------------------------------
+Answer 3 - Yes 
+
+-------------------------------------------------------------------------------------
+Answer 4 - .py 
+
+-------------------------------------------------------------------------------------
+Answer 5 - Both compiled and interpreted 
+
+-------------------------------------------------------------------------------------
+Answer 6 - We use indentation in python  
+
+-------------------------------------------------------------------------------------
+Answer 7 - #
+-------------------------------------------------------------------------------------
+Answer 8 - python --version 
+-------------------------------------------------------------------------------------
+Answer 9 - lambda 
+-------------------------------------------------------------------------------------
+Answer 10 - preferred installer program 
+-------------------------------------------------------------------------------------
+Answer 11 - list() , dict() , bool() , str() 
+
+-------------------------------------------------------------------------------------
+Answer 12 - 79 characters
+-------------------------------------------------------------------------------------
+Answer 13 - easy to write , high level language , massive libraries support 
+-------------------------------------------------------------------------------------
+Answer 14 - Memory management in Python involves the management of a private heap.
+-------------------------------------------------------------------------------------
+Answer 15 - Steps -
+1. download python from officil site and follow installation steps displayed .
+To set path variable - 
+Right-clicking This PC and going to Properties.
+Clicking on the Advanced system settings in the menu on the left.
+Clicking on the Environment Variables button o​n the bottom right.
+In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+Clicking on New and entering Python’s install directory.
+-------------------------------------------------------------------------------------
+Answer 16 - Yes
+-------------------------------------------------------------------------------------
